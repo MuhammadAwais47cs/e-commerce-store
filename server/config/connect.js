@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-url = 'mongodb+srv://admin:admin@cluster0.rzbahaf.mongodb.net/Cluster0?retryWrites=true&w=majority';
+// url = ' ';
 
 const connectDB = () => {
     console.log('connectDB');
